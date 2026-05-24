@@ -1,0 +1,7 @@
+odin_crash.log
+bin/
+obj/
+.vs/
+*.user
+usb.ids
+*.binlog
