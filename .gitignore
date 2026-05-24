@@ -5,3 +5,5 @@ obj/
 *.user
 usb.ids
 *.binlog
+*.Backup.tmp
+*_wpftmp.csproj
